@@ -10,6 +10,7 @@ We created this fork because we needed to include the following modifications in
 | -- | ----------- |
 | [#883](https://github.com/apache/cordova-plugin-inappbrowser/pull/883) | Allow loading local files in Android      |
 | [#921](https://github.com/apache/cordova-plugin-inappbrowser/pull/921) | Allow changing location bg and text color |
+| [#886](https://github.com/apache/cordova-plugin-inappbrowser/pull/886) | Allow loading of intent urls              |
 
 You can see all the changes here: [5.0.0...moodlemobile:v5.0.0-moodle.3](https://github.com/apache/cordova-plugin-inappbrowser/compare/5.0.0...moodlemobile:v5.0.0-moodle.3)
 
