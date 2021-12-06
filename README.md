@@ -11,7 +11,3 @@ We created this fork because we needed to include the following modifications:
 | [#883](https://github.com/apache/cordova-plugin-inappbrowser/pull/883) | Allow loading local files in Android      |
 | [#921](https://github.com/apache/cordova-plugin-inappbrowser/pull/921) | Allow changing location bg and text color |
 | [#886](https://github.com/apache/cordova-plugin-inappbrowser/pull/886) | Allow loading of intent urls              |
-
-## Installation
-
-You can install this package using the [original installation instructions](https://github.com/apache/cordova-plugin-inappbrowser#installation), but installing this package instead:
